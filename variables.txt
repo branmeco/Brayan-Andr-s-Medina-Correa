@@ -1,0 +1,26 @@
+P1633 ¿El negocio o actividad
+tiene Registro Único
+Tributario (RUT)? 
+P986¿A que regimen pertenece? 1 commun 2 simplificado
+P1056 ¿Cómo está registrado? 1 Como
+persona natural comerciante 2 Como
+persona jurídica 
+P661 ic Obtuvo o renovó ese registro este año?
+1 Sí 2 No 
+P1057 ¿Ha registrado el negocio o actividad
+ante alguna autoridad o entidad
+(alcaldía, ministerios u otros) 1 Sí 2 No
+P2991 En el último año, ¿realizó las(s)
+declaracion(es) de impuesto sobre la
+renta 1 Si 2 No 3 No es responsable de
+este impuesto 9 No Informa 
+P2992  En el último año, ¿realizó las(s)
+declaracion(es) de IVA (Impuesto al
+Valor Agregado) 1 Si 2 No 3 No es
+responsable de este impuesto 9 No
+Informa 
+P2993 En el último año, ¿realizó las(s)
+declaracion(es) de ICA (Impuesto de
+Industria y Comercio) 1 Si 2 No 3 No es
+responsable de este impuesto 9 No
+Informa 
